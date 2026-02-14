@@ -1,0 +1,1 @@
+console.log(name="my name is: Suipe Brandon \n", age ="23\n", favProLang="Python")
