@@ -4,8 +4,8 @@
   "main": "intro.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node loginAPI.js",
-    "dev": "nodemon loginAPI.js"
+    "start": "node week2API.js",
+    "dev": "nodemon week2API.js"
   },
   
   "keywords": [],
